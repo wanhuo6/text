@@ -93,3 +93,13 @@ https://github.com/mozilla/pdf.js
 http://www.jianshu.com/p/1bf49af6584d
 
 10007515110141754080
+
+注册
+登录
+kcal转化积分
+跑步
+运动数据
+个人信息
+积分系统
+加密https
+地址管理
